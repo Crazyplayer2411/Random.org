@@ -1,4 +1,2 @@
-Flask==1.1.2
-requests==2.25.1
-tronapi==3.1.6
-gunicorn
+python-telegram-bot
+twilio==7.6.0
